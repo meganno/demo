@@ -1,4 +1,3 @@
 pandas
 tqdm
-ipywidgets
-jupyter_contrib_nbextensions
+
