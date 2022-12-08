@@ -1,3 +1,4 @@
 pandas
 tqdm
-jupyter_contrib_nbextensions
+git+https://git@github.com/meganno/labeler-client.git
+
