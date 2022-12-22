@@ -1,3 +1,0 @@
-pandas
-tqdm
-git+https://git@github.com/meganno/labeler-client.git
