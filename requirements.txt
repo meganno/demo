@@ -1,4 +1,4 @@
 pandas
 tqdm
-git+https://git@github.com/meganno/labeler-client.git
+git+https://git@github.com/meganno/labeler-client.git@v1.0.8
 
