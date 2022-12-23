@@ -1,6 +1,3 @@
-black
-flake8
-pre-commit
-wheel
-twine
-jupyter_packaging
+pandas
+tqdm
+git+https://github.com/meganno/labeler-client.git@v1.0.8
