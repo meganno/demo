@@ -1,5 +1,2 @@
-#!/usr/bin/env bash
-set -e
-
 npm install -g yarn
-pip install .
+pip install git+https://github.com/rit-git/labeler-client.git@v1.0.7
