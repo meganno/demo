@@ -1,2 +1,2 @@
 npm install -g yarn
-pip install git+https://github.com/rit-git/labeler-client.git@v1.0.7
+pip install git+https://github.com/meganno/labeler-client.git@v1.0.7
