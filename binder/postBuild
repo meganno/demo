@@ -1,2 +1,5 @@
+#!/usr/bin/env bash
+set -e
+
 npm install -g yarn
-pip install git+https://github.com/meganno/labeler-client.git@v1.0.8
+pip install .
