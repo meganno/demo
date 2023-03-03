@@ -1,4 +1,7 @@
 git+https://github.com/meganno/labeler-client.git
 pandas
 tqdm
+modAL
+sklearn
+numpy
 
